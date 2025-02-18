@@ -6,6 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)]()
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)]()
 
+<p>
 <img
   aling="left"
   atl="GitHub Stats"
@@ -20,6 +21,7 @@
   style="padding-right: 10px;"
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuelantunes&theme=tokyonight&layout=compact&locale=pt-br&langs_count=7"
 />
+<p/>
 
 ## Tecnologias que uso no meu dia
 
